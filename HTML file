@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 class="logo">Logo</h1>
+    <nav>
+        <ul>
+            <li><a href="#">Início</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Contato</a></li>
+        </ul>
+    </nav>
+
+    </header>
+    <section class="hero">
+        <h1>Projeto Meu Primeiro Site</h1>
+
+        <div class="dots">
+            <span class="active"></span>
+            <span></span>
+             <span></span>
+        </div>
+    </section>
+
+    <section class="gallery">
+        <h2>Galeria de Imagens</h2>
+
+        <div>
+            <span></span>
+            <p>Legenda</p>
+        </div>
+
+    </section>
+
+    
+</body>
+</html>
